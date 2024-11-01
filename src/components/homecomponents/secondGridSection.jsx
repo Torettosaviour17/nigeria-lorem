@@ -1,7 +1,7 @@
 import { FaFacebook, FaTwitter } from "react-icons/fa";
-import stadium from "../../assets/stadium.png";
-import nigeria from "../../assets/nigerian.png";
-import forever from "../../assets/forever.png";
+import stadium from "../../../public/assets/stadium.png";
+import nigeria from "../../../public/assets/nigerian.png";
+import forever from "../../../public/assets/forever.png";
 
 export default function secondGridSection() {
   return (
