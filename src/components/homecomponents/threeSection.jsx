@@ -1,14 +1,14 @@
 // eslint-disable-next-line no-unused-vars
 import React, { useState } from "react";
-import calculatorAndPen from "../../assets/calculatorAndPen.png";
-import classWithWhiteWoman from "../../assets/classWithWhiteWoman.png";
-import decoration from "../../assets/decoration.png";
-import together from "../../assets/togetherHand.png";
-import firstHeroPic from "../../assets/firstHeroPic.png";
-import stadium from "../../assets/stadium.png";
-import nigeria from "../../assets/nigerian.png";
-import forever from "../../assets/forever.png";
-import buleShirtGuy from "../../assets/buleShirtGuy.png";
+import calculatorAndPen from "../../../public/assets/calculatorAndPen.png";
+import classWithWhiteWoman from "../../../public/assets/classWithWhiteWoman.png";
+import decoration from "../../../public/assets/decoration.png";
+import together from "../../../public/assets/togetherHand.png";
+import firstHeroPic from "../../../public/assets/firstHeroPic.png";
+import stadium from "../../../public/assets/stadium.png";
+import nigeria from "../../../public/assets/nigerian.png";
+import forever from "../../../public/assets/forever.png";
+import buleShirtGuy from "../../../public/assets/buleShirtGuy.png";
 
 const images = [
   [
@@ -23,7 +23,7 @@ const images = [
       title: "Calculator and Pen",
     },
     {
-      src:together,
+      src: together,
       title: "Class with White Woman",
     },
     {

@@ -1,4 +1,4 @@
-import together from "../../assets/togetherHand.png";
+import together from "../../../public/assets/togetherHand.png";
 
 export default function sigin() {
   return (

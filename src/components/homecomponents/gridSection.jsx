@@ -67,9 +67,9 @@
 // export default App;
 
 import { FaFacebook, FaTwitter } from "react-icons/fa";
-import buleShirtGuy from "../../assets/buleShirtGuy.png";
-import classWithWhiteWoman1 from "../../assets/classWithWhiteWoman1.png";
-import calculatorAndPen1 from "../../assets/calculatorAndPen1.png";
+import buleShirtGuy from "../../../public/assets/buleShirtGuy.png";
+import classWithWhiteWoman1 from "../../../public/assets/classWithWhiteWoman1.png";
+import calculatorAndPen1 from "../../../public/assets/calculatorAndPen1.png";
 
 export default function gridSection() {
   return (

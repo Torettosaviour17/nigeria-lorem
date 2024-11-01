@@ -1,5 +1,5 @@
-import firstHeroPic from "../../assets/firstHeroPIc.png";
-import secondHeroPic from "../../assets/secondHeroPic.png";
+import firstHeroPic from "../../../public/assets/firstHeroPic.png";
+import secondHeroPic from "../../../public/assets/secondHeroPic.png";
 
 export default function hero() {
   return (
