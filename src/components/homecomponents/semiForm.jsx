@@ -1,7 +1,7 @@
 export default function semiForm() {
   return (
     <div>
-      <section className="flex flex-col gap-7 p-20">
+      <section className="md:flex hidden flex-col gap-7 p-20">
         <div className="text-white bg-[#102C88] text-center bg-[]#102C88 p-9 space-y-4">
           <h1 className="md:text-[32px] font-bold">
             Lorem ipsum dolor Lorem{" "}
