@@ -73,7 +73,7 @@ export default function ThreeSection() {
       {/* Title Section */}
       <div className="flex justify-between items-center mb-6">
         <div>
-          <h1 className="text-2xl font-bold text-[#B4020A] inline-block">
+          <h1 className="md:text-[24px] sm:text-[18px] text-[14] font-bold text-[#B4020A] inline-block">
             Lorem Ipsum Dolor
           </h1>
           <div className="w-1/2 rounded-xl p-1 h-1 bg-[#FF9900] mt-1"></div>{" "}
